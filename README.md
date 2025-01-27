@@ -60,7 +60,7 @@ An enhanced U-Net model using **VGG16** pretrained layers:
 
 | Model         | Loss Function   | Dice Score | Tversky Index |
 | ------------- | --------------- | ---------- | ------------- |
-| U-Net         | BCE + Dice Loss | 0.7034     | N/A           |
+| U-Net         | BCE + Dice Loss | 0.7034     |               |
 | U-Net         | Tversky Loss    | 0.6959     | 0.7168        |
 | U-Net + VGG16 | BCE + Dice Loss | 0.6934     | 0.7083        |
 | U-Net + VGG16 | Tversky Loss    | 0.6996     | 0.7175        |
@@ -70,10 +70,13 @@ An enhanced U-Net model using **VGG16** pretrained layers:
 ## Visualization
 
 The repository includes visual results showcasing the following as an image, which is also included in the repository:
-![Visualization Example1](./images/4bd8493d-f0aa-4f57-ab9d-ee608b2cf6f3.png)
-![Visualization Example2](./images/6c7ba150-eda1-4c29-adc1-99cbcda9f471.png)
-![Visualization Example3](./images/8b016071-a224-463c-b944-cecb759a8757.png)
-![Visualization Example4](./images/9be349b2-5ec7-443e-8b7a-e3fe47c1edf6.png)
+| ![Visualization Example1](./images/4bd8493d-f0aa-4f57-ab9d-ee608b2cf6f3.png) | ![Visualization Example2](./images/6c7ba150-eda1-4c29-adc1-99cbcda9f471.png) |
+|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| **Example 1** | **Example 2** |
+
+| ![Visualization Example3](./images/8b016071-a224-463c-b944-cecb759a8757.png) | ![Visualization Example4](./images/9be349b2-5ec7-443e-8b7a-e3fe47c1edf6.png) |
+| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|                                **Example 3**                                 |                                **Example 4**                                 |
 
 These demonstrate the models’ capability to identify tumor regions accurately while highlighting areas for further refinement.
 
