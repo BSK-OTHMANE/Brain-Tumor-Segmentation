@@ -70,10 +70,10 @@ An enhanced U-Net model using **VGG16** pretrained layers:
 ## Visualization
 
 The repository includes visual results showcasing the following as an image, which is also included in the repository:
-![Visualization Example](./images\4bd8493d-f0aa-4f57-ab9d-ee608b2cf6f3.png)
-(./images\6c7ba150-eda1-4c29-adc1-99cbcda9f471.png)
-(./images\8b016071-a224-463c-b944-cecb759a8757.png)
-(./images\9be349b2-5ec7-443e-8b7a-e3fe47c1edf6.png)
+![Visualization Example1](./images\4bd8493d-f0aa-4f57-ab9d-ee608b2cf6f3.png)
+![Visualization Example2](./images\6c7ba150-eda1-4c29-adc1-99cbcda9f471.png)
+![Visualization Example3](./images\8b016071-a224-463c-b944-cecb759a8757.png)
+![Visualization Example4](./images\9be349b2-5ec7-443e-8b7a-e3fe47c1edf6.png)
 
 These demonstrate the models’ capability to identify tumor regions accurately while highlighting areas for further refinement.
 
