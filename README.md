@@ -99,7 +99,7 @@ Notebooks included:
 - `unet-vgg16-bce-dice-loss.ipynb`
 - `unet-vgg16-tversky-loss.ipynb`
 
-For more information, you can refer to the [project report](./Brain Tumor segmentation report.pdf).
+For more information, you can refer to the [project report](./Brain-Tumor-segmentation-report.pdf).
 
 ---
 
