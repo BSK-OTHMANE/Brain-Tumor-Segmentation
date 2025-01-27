@@ -99,19 +99,19 @@ Notebooks included:
 - `unet-vgg16-bce-dice-loss.ipynb`
 - `unet-vgg16-tversky-loss.ipynb`
 
+For more information, you can refer to the [project report](./Brain Tumor segmentation report.pdf).
+
 ---
 
 ## Authors
 
-- **Bouskine Othmane**
-- **Boulaalam Yassine**
+- [**Bouskine Othmane**](https://github.com/BSK-OTHMANE)
+- [**Boulaalam Yassine**](https://github.com/Boulaalamyassine)
 
 ### Supervisor
 
-- **Prof. Belcaid Anass**
+- [**Prof. Belcaid Anass**](https://github.com/anassBelcaid)
 
 ### University
 
 The National School of Applied Sciences of Tetouan, University Abdelmalek Essaâdi
-
----
